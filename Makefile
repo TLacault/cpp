@@ -21,7 +21,7 @@ SRC			=	./src/main.cpp	\
 				./src/display/display_network.cpp	\
 
 
-BINARY_NAME	=	 MyGKrellm
+BINARY_NAME	=	 htop-light
 
 CPPFLAGS	=	-I ./include -lncurses
 

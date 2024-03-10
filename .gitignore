@@ -1,0 +1,9 @@
+# VSCode
+.vscode
+
+# C++ Compilation
+*.o
+*.out
+
+# Binary
+htop-light
