@@ -43,7 +43,7 @@ make
 * **Run the game**
 
 ```
-./game_sdl
+./htop-light
 ```
 
 
